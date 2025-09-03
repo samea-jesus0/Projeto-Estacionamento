@@ -64,7 +64,6 @@ A estrutura do repositório está organizada da seguinte forma para separar a do
 /PROJETO-ESTACIONAMENTO
 |
 |-- /REQUISITOS
-|   |-- Termo_de_Abertura_do_Projeto.docx
 |   |-- ... (outros documentos de requisitos)
 |
 |-- /src (ou /backend e /frontend)
