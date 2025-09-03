@@ -36,9 +36,9 @@ O sistema contará com os seguintes módulos:
 
 As tecnologias para o desenvolvimento do projeto ainda serão definidas, mas a stack preliminar sugerida é:
 
-  - **Frontend:** `A definir (Ex: React, Angular, Vue.js)`
-  - **Backend:** `A definir (Ex: Node.js, Python, Java)`
-  - **Banco de Dados:** `A definir (Ex: PostgreSQL, MySQL, MongoDB)`
+  - **Frontend:** `A definir`
+  - **Backend:** `A definir`
+  - **Banco de Dados:** `A definir`
   - **Versionamento:** `Git`
 
 ## 🏃 Como Executar o Projeto
