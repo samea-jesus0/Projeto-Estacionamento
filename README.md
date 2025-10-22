@@ -98,20 +98,6 @@ A estrutura do repositório está organizada da seguinte forma para separar a do
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="./Membros/Giovanni.jpg" width="100px">
-      <p>Giovanni Rodrigues 🎮</p>
-      <a href="https://www.linkedin.com/in/giovanni-rodrigues-5b2259325/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
-      <br>
-      <a href="https://github.com/GioDev29"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
-    </td>
-    <td align="center">
-      <img src="./Membros/Rodrigo.jpg" width="100px">
-      <p>Rodrigo Tomya <img src="./Icones/badtzmaru.png" width="30px"></p>
-      <a href="https://www.linkedin.com/in/rodrigo-tomya-maruyama-7483462ab/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="15px">  Linkedin</a>
-      <br>
-      <a href="https://github.com/DigoTomya"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="15px">  Github</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
