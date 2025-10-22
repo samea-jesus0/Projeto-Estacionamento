@@ -39,6 +39,9 @@ As tecnologias para o desenvolvimento do projeto ainda serão definidas, mas a s
   - **Frontend:** `A definir (Ex: React, Angular, Vue.js)`
   - **Backend:** `A definir (Ex: Node.js, Python, Java)`
   - **Banco de Dados:** `A definir (Ex: PostgreSQL, MySQL, MongoDB)`
+  - **Frontend:** `A definir`
+  - **Backend:** `A definir`
+  - **Banco de Dados:** `A definir`
   - **Versionamento:** `Git`
 
 ## 🏃 Como Executar o Projeto
@@ -48,6 +51,7 @@ Instruções sobre como configurar e executar o ambiente de desenvolvimento loca
 ```bash
 # 1. Clone o repositório
 git clone https://[URL-DO-SEU-REPOSITORIO-GIT]/PROJETO-ESTACIONAMENTO.git
+git clone https://samea-jesus0/PROJETO-ESTACIONAMENTO.git
 
 # 2. Acesse a pasta do projeto
 cd PROJETO-ESTACIONAMENTO
@@ -120,3 +124,5 @@ A estrutura do repositório está organizada da seguinte forma para separar a do
     <td></td>
   </tr>
 </table>
+
+-----
